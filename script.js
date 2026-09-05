@@ -2,7 +2,7 @@ const products = {
   auto: {
     kicker: "ALLIANZ AUTO",
     title: "Allianz Auto",
-    image: "portada allianz residencial.jpg",
+    image: "portada-autos.jpg",
     imageAlt: "Familia junto a su automóvil",
     lead: "Tu auto es parte de tu día a día. La idea es que, si algo pasa, tengas respaldo para seguir adelante.",
     hookTitle: "¿Estás pagando de más por tu seguro?",
@@ -49,7 +49,7 @@ const products = {
   ppr: {
     kicker: "OPTIMAXX PLUS · PPR",
     title: "OptiMaxx Plus",
-    image: "optim axx pluss.jfif",
+    image: "optimaxx pluss.jfif",
     imageAlt: "Planeación para el retiro",
     lead: "Tu retiro no debería depender de la suerte. Empieza hoy a construir el dinero que quieres tener mañana.",
     hookTitle: "¿Con cuánto dinero te quieres retirar?",
@@ -89,7 +89,7 @@ const products = {
   vida: {
     kicker: "OPTIMAXX PROTECCIÓN",
     title: "Seguro de Vida",
-    image: "portada patrimonial.jpg",
+    image: "portada-familia-1.jpg",
     imageAlt: "Familia protegida",
     lead: "Si tu ingreso sostiene a tu familia, protegerlo también es parte de tu patrimonio.",
     hookTitle: "Si mañana faltaras, ¿tu familia estaría protegida?",
@@ -122,7 +122,7 @@ const products = {
   patrimonial: {
     kicker: "OPTIMAXX PATRIMONIAL",
     title: "OptiMaxx Patrimonial",
-    image: "portada-familia-2.jpg",
+    image: "portada patrimonial.jpg",
     imageAlt: "Planeación financiera e inversión",
     lead: "Si ya tienes un patrimonio, la pregunta es: ¿está trabajando de acuerdo con tus objetivos?",
     hookTitle: "Haz que tu patrimonio trabaje para ti.",
@@ -200,7 +200,7 @@ const products = {
   residencial: {
     kicker: "ALLIANZ RESIDENCIAL",
     title: "Allianz Residencial",
-    image: "portada-auto-familia.jpg",
+    image: "portada allianz residencial.jpg",
     imageAlt: "Protección para el hogar y la familia",
     lead: "Tu casa no son solo cuatro paredes: ahí están tus cosas, tus planes y las personas que quieres proteger.",
     hookTitle: "¿Qué pasaría si mañana tu casa quedara inhabitable?",
