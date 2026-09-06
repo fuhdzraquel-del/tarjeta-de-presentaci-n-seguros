@@ -122,7 +122,7 @@ const products = {
   patrimonial: {
     kicker: "OPTIMAXX PATRIMONIAL",
     title: "OptiMaxx Patrimonial",
-    image: "portada patrimonial.jpg",
+    image: "portada patrimonial.jfif",
     imageAlt: "Planeación financiera e inversión",
     lead: "Si ya tienes un patrimonio, la pregunta es: ¿está trabajando de acuerdo con tus objetivos?",
     hookTitle: "Haz que tu patrimonio trabaje para ti.",
