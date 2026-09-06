@@ -554,7 +554,7 @@ img.avatar{
     max-width:820px; margin:-56px auto 0;
     padding:26px 34px;
   }
-  .avatar{ margin-top:0; width:76px; height:76px; font-size:26px; flex-shrink:0; }
+  .avatar{ margin-top:0; width:76px; height:76px; font-size:26px; flex-shrink:0;overflow:hidden; }
   .profile-text{ flex:1; }
   .profile-text h1{ font-size:23px; margin-top:0; }
   .socials{ margin-top:0; }
