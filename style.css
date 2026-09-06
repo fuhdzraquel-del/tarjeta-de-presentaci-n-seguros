@@ -182,19 +182,15 @@ img{ max-width:100%; display:block; }
   z-index:3;
 }
 .avatar{
-    width:64px; height:64px; border-radius:50%;
+  width:64px; height:64px; border-radius:50%;
   overflow:hidden;
-  display:flex; align-items:center; justify-content:center;
+  object-fit:cover;
+  object-position:center;
   margin-top:-46px;
   border:4px solid #fff;
   box-shadow:0 4px 12px rgba(0,0,0,.18);
 }
-.avatar img,
-img.avatar{
-  width:100%; height:100%;
-  object-fit:cover;
-  object-position:center;
-}
+
 .profile-text h1{
   font-size:19px; font-weight:800; color:var(--azul);
   margin-top:12px;
