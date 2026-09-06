@@ -163,7 +163,7 @@ const products = {
   elite: {
     kicker: "OPTIMAXX ELITE",
     title: "OptiMaxx Elite",
-    image: "portada ellite.jpg",
+    image: "portada ellite.jfif",
     imageAlt: "Planeación financiera e inversión",
     lead: "Tu dinero puede tener una estrategia sin perder de vista la liquidez que podrías necesitar.",
     hookTitle: "¿Tu dinero está creciendo o solo está guardado?",
@@ -200,7 +200,7 @@ const products = {
   residencial: {
     kicker: "ALLIANZ RESIDENCIAL",
     title: "Allianz Residencial",
-    image: "portada allianz residencial.jpg",
+    image: "portada allianz residencial.jfif",
     imageAlt: "Protección para el hogar y la familia",
     lead: "Tu casa no son solo cuatro paredes: ahí están tus cosas, tus planes y las personas que quieres proteger.",
     hookTitle: "¿Qué pasaría si mañana tu casa quedara inhabitable?",
