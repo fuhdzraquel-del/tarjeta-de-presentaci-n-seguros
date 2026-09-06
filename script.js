@@ -2,7 +2,7 @@ const products = {
   auto: {
     kicker: "ALLIANZ AUTO",
     title: "Allianz Auto",
-    image: "portada-autos.jpg",
+    image: "portada-autos.jfif",
     imageAlt: "Familia junto a su automóvil",
     lead: "Tu auto es parte de tu día a día. La idea es que, si algo pasa, tengas respaldo para seguir adelante.",
     hookTitle: "¿Estás pagando de más por tu seguro?",
