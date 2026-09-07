@@ -548,7 +548,7 @@ img{ max-width:100%; display:block; }
     flex-direction:row; text-align:left;
     align-items:center; gap:22px;
     max-width:820px; margin:-56px auto 0;
-    padding:16px 30px;
+    padding:8px 30px;
   }
   .avatar{ margin-top:0; width:140px; height:140px; font-size:26px; flex-shrink:0; overflow:hidden; }
   .profile-text{
